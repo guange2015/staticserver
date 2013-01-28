@@ -1,0 +1,10 @@
+{
+  "name": "static_server",
+  "version": "0.0.1",
+  "description": "A static server.",
+  "main": "index.js",
+  "repository": "",
+  "author": "hhuai",
+  "license": "BSD",
+	"dependencies": {"mime": ">= 0.0.1"}
+}
